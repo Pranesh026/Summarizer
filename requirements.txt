@@ -1,5 +1,5 @@
 streamlit==1.15.0
-openai==0.27.0
-azure-ai-openai==1.0.0
+openai
 azure-core==1.25.0
 python-dotenv==0.19.2
+altair<5
