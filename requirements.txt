@@ -1,4 +1,4 @@
-streamlit==1.15.0
+streamlit
 openai
 azure-core==1.25.0
 python-dotenv==0.19.2
